@@ -2,7 +2,7 @@
 
 # EN
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=miaomaomiaomaoda&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=miaomaomiaomaoda&show_icons=true&hide_title=true&theme=gruvbox&border_radius=30" />
 
 - 👋 Hi, I’m Rongquan Liu.
 - 👀 I’m interested in Mecha、Computer、Math and so on.
