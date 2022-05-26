@@ -13,4 +13,4 @@
 - Email:1845423486@qq.com
 
 Using Language:
--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaomaomiaomaoda)]
+-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaomaomiaomaoda" />
