@@ -3,8 +3,7 @@
 # EN
 
 - <img align="right" src="https://github-readme-stats.vercel.app/api?username=miaomaomiaomaoda&show_icons=true&hide_title=true&theme=gruvbox&border_radius=30" />
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+- <img align="right" src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=miaomaomiaomaoda&show_icons=true&hide_title=true&theme=gruvbox&border_radius=30" />
 - 👋 Hi, I’m Rongquan Liu.
 - 👀 I’m interested in Mecha、Computer、Math and so on.
 - 🌱 I’m currently learning Java,Front and the Web Security.
