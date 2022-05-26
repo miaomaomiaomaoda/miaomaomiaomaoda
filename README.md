@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning Java,Front and the Web Security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? 
-- QQ:1845423486 Email:1845423486@qq.com
+- QQ:1845423486 
+- Email:1845423486@qq.com
 
 # CN
 - 👋 R.Q.
