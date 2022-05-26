@@ -1,20 +1,15 @@
 
 
 # EN
+
+- <img align="right" src="https://github-readme-stats.vercel.app/api?username=miaomaomiaomaoda&show_icons=true&hide_title=true&theme=gruvbox&border_radius=30" />
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Rongquan Liu.
 - 👀 I’m interested in Mecha、Computer、Math and so on.
 - 🌱 I’m currently learning Java,Front and the Web Security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? QQ:1845423486 Email:1845423486@qq.com
-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=miaomaomiaomaoda&show_icons=true&hide_title=true&theme=gruvbox&border_radius=30" />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 
 # CN
 - 👋 R.Q.
