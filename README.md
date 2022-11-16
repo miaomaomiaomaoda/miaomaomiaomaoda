@@ -8,8 +8,8 @@
 - 👀 I’m interested in Mecha、Computer、Math and so on.
 - 🌱 I’m currently learning Java,Front and the Web Security.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? 
-- QQ:1845423486 
-- Email:1845423486@qq.com
+- chat:
+QQ:1845423486 
+Email:1845423486@qq.com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaomaomiaomaoda&theme=gruvbox&border_radius=30" />
